@@ -2304,8 +2304,7 @@ rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
 openx.com, 561446248, RESELLER, 6a698e2ec38604c6
 #ironsource end
 #kwai start
-
-kwainetwork.kwai.com,c9cd9934eb4a4b458376774b0f58da69,DIRECT
+kwainetwork.kwai.com,ac4330295f55de3d541698fb1586e974,DIRECT
 bidease.com,bidease_seller_49,RESELLER
 dauup.com,34109,RESELLER
 apester.com,0707,RESELLER
